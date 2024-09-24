@@ -1,6 +1,7 @@
 import { useRef } from 'react';
 import Navbar from '../cmp/Navbar';
 
+
 const Contact = () => {
     const firstname = useRef(null);
     const mail = useRef(null);
