@@ -19,7 +19,7 @@ const Navbar = () => {
 
                     <UserCircle className="h-7 w-7  m-1  hover:text-blue-400" />
 </li>
-                    </ul>
+                    </ul> 
 
 
 
